@@ -1,2 +1,3 @@
-mod energy;
+#![allow(unused)]
 
+mod energy;
